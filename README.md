@@ -2,6 +2,8 @@
 This project was created as a submission to [Rose Hacks 2022](https://rosehack.com/index.html) and won 2nd place overall.
 **Team Members**:  *Jonathan Lo, Eric Wang, and Yenna Chang*
 
+![image](https://user-images.githubusercontent.com/97314187/208971663-eae066e7-b513-4792-a277-4a6c9f1799e4.png)
+
 ## Songnality
 Songnality is a WebApp designed to predict an Animal Crossing character that the user most closely aligns with using their top song choices. In addition, users can see their assigned characters top/preferred songs. Currently Songnality features 8 Animal Crossing characters.
 
